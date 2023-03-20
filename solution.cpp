@@ -8,7 +8,7 @@ int main(){
     }
     int max = a[0];
     for(int i =0; i < n; i++){
-        if(a[i] > max3 )
+        if(a[i] > max )
         max = a[i];
     }
     cout << max;

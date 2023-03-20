@@ -4,7 +4,8 @@
 ###Dữ liệu vào
 
 - Dòng đầu tiên chứa số nguyên dương n là số lượng phần tử của mảng a $(1 \le n \le 1000)$
-- Dòng thứ 2 gồm n các số nguyên $ a_{1}, a_{2},..., a_{n} $ trong mảng a.
+- Dòng thứ 2 gồm n các số nguyên $ a_{1}, a_{2},..., a_{n} $ trong mảng a.  
+
 ####Dữ liệu ra 
 
 - In ra số lớn nhất trong mảng vừa nhập  
